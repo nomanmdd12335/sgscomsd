@@ -63,4 +63,4 @@ jobs:
           app-name: 'asosus'
           slot-name: 'Production'
           package: .
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_F6D2C286B10F4ADA8A2556A75C82148A }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_ED131B43368C4A69AAA55D2B40EF1C74 }}
